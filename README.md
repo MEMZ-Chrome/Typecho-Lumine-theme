@@ -1,7 +1,11 @@
 # Typecho-Lumine-theme
+
 A typecho simple theme
+
 by bilibili@MEMZ-Chrome
+
 基于Typecho主题-iCard修改
+
 "Lumine"是游戏《原神》中女主角的英文名，中文名为"荧"。
 
 ## 更新日志
